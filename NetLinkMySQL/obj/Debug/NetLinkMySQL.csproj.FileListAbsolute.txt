@@ -1,0 +1,10 @@
+E:\GIT\CZGameServer\NetLinkMySQL\bin\Debug\NetLinkMySQL.exe.config
+E:\GIT\CZGameServer\NetLinkMySQL\bin\Debug\NetLinkMySQL.exe
+E:\GIT\CZGameServer\NetLinkMySQL\bin\Debug\NetLinkMySQL.pdb
+E:\GIT\CZGameServer\NetLinkMySQL\bin\Debug\MySql.Data.dll
+E:\GIT\CZGameServer\NetLinkMySQL\bin\Debug\MySql.Data.xml
+E:\GIT\CZGameServer\NetLinkMySQL\obj\Debug\NetLinkMySQL.csprojAssemblyReference.cache
+E:\GIT\CZGameServer\NetLinkMySQL\obj\Debug\NetLinkMySQL.csproj.CoreCompileInputs.cache
+E:\GIT\CZGameServer\NetLinkMySQL\obj\Debug\NetLinkMySQL.csproj.CopyComplete
+E:\GIT\CZGameServer\NetLinkMySQL\obj\Debug\NetLinkMySQL.exe
+E:\GIT\CZGameServer\NetLinkMySQL\obj\Debug\NetLinkMySQL.pdb
